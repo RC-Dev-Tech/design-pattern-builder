@@ -1,4 +1,4 @@
-# ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) Builder 建構者
+# ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) Builder 建造者模式
 > ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
 
 ---
@@ -18,19 +18,19 @@
 <br>
 
 ## 目的
-將物件的建構過程和表示方式分離開來，以及提供一個方法可以創建複雜物件的不同部分，從而使構建過程更加靈活。
+建造者模式（Builder Design Pattern）可以將物件的建構過程和表示方式分離開來，<br>
+並提供一個方法可以創建複雜物件的不同部分，從而使構建過程更加靈活。<br>
 
 ---
 <br>
 
 ## 使用時機
-當需要創建複雜的物件時，將其構建過程分離開來以更好地管理構建過程和不同部分之間的依賴關係。
+當需要創建複雜的物件時，將其構建過程分離開來以更好地管理構建過程和不同部分之間的依賴關係。<br>
 
 ---
 <br>
 
 ## URL結構圖
-![](https://drive.google.com/uc?id=1cKeKLErG4dnPn97iVP1t4krt6cnJ3mdT)
 
 ---
 <br>
