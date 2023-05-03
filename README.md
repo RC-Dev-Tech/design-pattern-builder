@@ -31,7 +31,8 @@
 <br>
 
 ## URL結構圖
-
+![](https://drive.google.com/uc?id=1o-f3dh2kagPaKP5n_boeep3gdwAS2cQx)
+> 圖片來源：[Refactoring.Guru - Builder](https://refactoring.guru/design-patterns/builder)
 ---
 <br>
 
@@ -54,7 +55,8 @@
 <br>
 
 ## 參考資料
-
+* [Wiki - Builder](https://en.wikipedia.org/wiki/Builder_pattern) <br>
+* [Refactoring.Guru - Builder](https://refactoring.guru/design-patterns/builder) <br>
 
 ---
 <br>
