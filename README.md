@@ -50,6 +50,8 @@
 <br>
 
 ## 實作範例:
+<font color=red size=16>待補...</font>
+
 
 ---
 <br>
