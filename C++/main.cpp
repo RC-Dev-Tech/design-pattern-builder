@@ -1,6 +1,5 @@
 /*
  *  Design Pattern - Builder 建造者模式
- *  Copyright (c) 2023 Ricky v1.0
  * 
  *  在這個 C++ 的範例中，我們定義了 Product 類別來表示正在創建的複雜物件，Builder 類別作為創建產品不同部分的介面，
  *  ConcreteBuilder 類別實現了 Builder 介面以創建並組裝 Product 的不同部分，而 Director 類別則負責控制創建產品的流程。
